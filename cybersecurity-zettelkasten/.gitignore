@@ -2,3 +2,14 @@
 
 # Local Netlify folder
 .netlify
+
+# Jekyll build outputs
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+vendor/
+.bundle/
+Gemfile.lock
