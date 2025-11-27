@@ -6,3 +6,7 @@
 [2025-11-27 10:23:30.369] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
 [2025-11-27 10:23:32.497] [stop_hook] [INFO] Logger initialized for stop_hook
 [2025-11-27 10:23:32.497] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
+[2025-11-27 10:24:46.792] [stop_hook] [INFO] Logger initialized for stop_hook
+[2025-11-27 10:24:46.792] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
+[2025-11-27 10:27:35.541] [stop_hook] [INFO] Logger initialized for stop_hook
+[2025-11-27 10:27:35.541] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
