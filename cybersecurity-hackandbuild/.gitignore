@@ -1,0 +1,28 @@
+# Netlify
+.netlify/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Quartz build output
+public/
+.quartz-cache/
+
+# Temporary files
+quartz-temp/
+quartz-package.json
+
+# Lock files (optional - uncomment if you want to track them)
+# package-lock.json
