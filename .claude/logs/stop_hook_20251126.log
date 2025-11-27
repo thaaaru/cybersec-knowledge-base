@@ -1,0 +1,4 @@
+[2025-11-26 08:31:21.336] [stop_hook] [INFO] Logger initialized for stop_hook
+[2025-11-26 08:31:21.337] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
+[2025-11-26 08:31:23.507] [stop_hook] [INFO] Logger initialized for stop_hook
+[2025-11-26 08:31:23.507] [stop_hook] [ERROR] Failed to import amplifier modules: No module named 'amplifier'
